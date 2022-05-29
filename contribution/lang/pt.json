@@ -137,7 +137,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado de cor, você deve ser capaz de desbloqueá-lo com a seqüência correta de cores.",
+ 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado de cor, você deve ser capaz de desbloqueá-lo com a sequência correta de cores.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -174,7 +174,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo porque a ambição de um homem. \\ N Faça amor exploração, não guerra.",
+ 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo por causa da ambição de um homem. \\ N Faça exploração do amor, não guerra.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -235,7 +235,7 @@
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "Quantos você gostaria de se retirar do banco?",
+ 	 	 	 	 	"trans": "Quantos você gostaria de retirar do banco?",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	},
  	 	 	 	"selectDeposit": {
@@ -354,7 +354,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"name"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${name} está prestes a ficar em alguns segundos!",
+ 	 	 	 	 	"trans": "${name} está prestes a acabar em alguns segundos!",
  	 	 	 	 	"eng": "${name} is about to run out in a few seconds!"
  	 	 	 	},
  	 	 	 	"refresh": {
@@ -680,7 +680,7 @@
  	 	 	 	"eng": "You don't have any secret keys"
  	 	 	},
  	 	 	"noKeysSubtitle": {
- 	 	 	 	"trans": "Você pode obter uma chave secreta de masmorras",
+ 	 	 	 	"trans": "Você pode obter chaves secretas em masmorras",
  	 	 	 	"eng": "You can obtain secret keys from Dungeons"
  	 	 	}
  	 	},
@@ -705,7 +705,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount} Mais interactáveis podem ser desbloqueados neste local, nível para desbloqueá-los.",
+ 	 	 	 	"trans": "${hiddenCount} Mais interactáveis podem ser desbloqueados neste local, suba de nível para desbloqueá-los.",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travel": {
@@ -1334,7 +1334,7 @@
  	 	 	},
  	 	 	"selectMinValue": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Selecione o valor min",
+ 	 	 	 	 	"trans": "Selecione o valor mínimo",
  	 	 	 	 	"eng": "Select min value"
  	 	 	 	}
  	 	 	}
